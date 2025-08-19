@@ -7,6 +7,7 @@ Here is the file structure for the project:
 ```
 DHCD/
 ├── DOA.py
+├── MMD.py
 ├── homogeneity.py
 ├── main.py
 ├── data/
@@ -25,7 +26,7 @@ DHCD/
 │   │   ├── config.json
 │   │   ├── q.csv
 │   │   └── h.csv 
-└── README.md
+└── readme.md
 ```
 ### data annotation
 `data.csv` consists of response logs.<br>
