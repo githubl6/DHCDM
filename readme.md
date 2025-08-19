@@ -1,5 +1,4 @@
-# Exploring Comprehensive High-Order Relationships: Dual-Hypergraphs Cognitive Diagnosis for Intelligent Education Systems
-
+# Dual-Relational Hypergraphs with Representation Alignment for Cognitive Diagnosis
 
 
 ## Project Structure
