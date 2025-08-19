@@ -1,0 +1,9 @@
+{
+  "dataset": "Math2",
+  "q_file": "q.csv",
+  "h_file": "h.csv",
+  "data": "Math2TotalData.csv",
+  "student_num": 3911,
+  "exercise_num": 16,
+  "knowledge_num": 16
+}
